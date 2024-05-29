@@ -38,3 +38,4 @@ Use this repo to play around with Git and GitHub and to better understand what e
 
 
 this is jack, i just made a change
+i just made another change to test syncing
